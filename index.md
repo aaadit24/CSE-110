@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/97692709/230689442-d839bea1-f750-4726-b4ff-216f0420279f.jpg">
-  > My Passport Picture
 </p>
+> My Passport Picture
 
 **I am second year *Math - CS major***
 
