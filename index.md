@@ -1,8 +1,11 @@
 # Aadit's User Page
-<p align="center">
+
   ![Photo Mine](https://user-images.githubusercontent.com/97692709/230689442-d839bea1-f750-4726-b4ff-216f0420279f.jpg)
   **I am second year* *Math - CS major***
- </p>
+
+<p align="center">
+  <img src="[https://picsum.photos/460/300](https://user-images.githubusercontent.com/97692709/230689442-d839bea1-f750-4726-b4ff-216f0420279f.jpg)">
+</p>
 
 The programming Languages that I have worked with are:
  - Java
