@@ -11,12 +11,11 @@
 
 
 The programming Languages that I have worked with are:
- - Java
- - Python
- - C
- - C#
- - C++
- - SQL
+ - [Java](https://docs.oracle.com/en/java/)
+ - [Python](https://docs.python.org/3/)
+ - [C](https://devdocs.io/c/)
+ - [C++](https://devdocs.io/cpp/)
+ - [SQL](https://learn.microsoft.com/en-us/sql/?view=sql-server-ver16)
 
 The favorite ranking of these languages are:
 1. Python
@@ -24,13 +23,11 @@ The favorite ranking of these languages are:
 3. C++
 4. C
 5. SQL
-6. C#
 
 In Python to print the statement "Hello World" we can type:
 
 ```
 print ("Hello World")
-
 ```
 
 whereas in Java, we have to write;
@@ -42,3 +39,4 @@ class HelloWorld {
     }
 }
 ```
+[Hello] (# Aadit's User Page)
