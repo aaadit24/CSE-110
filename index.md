@@ -4,5 +4,20 @@
   **I am second year* *Math - CS major***
  </p>
 
+The programming Languages that I have worked with are:
+ - Java
+ - Python
+ - C
+ - C#
+ - C++
+ - SQL
+
+The favorite ranking of these languages are:
+1. Python
+2. Java
+3. C++
+4. C
+5. SQL
+6. C#
 
 
