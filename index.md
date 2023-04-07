@@ -39,6 +39,12 @@ class HelloWorld {
 }
 ```
 
+My daily checklist before I leave my room is 
+- [ ] Wallet
+- [ ] Phone
+- [ ] Airpods
+- [ ] Glasses
+
 [This is a link to my README.md page](README.md)
 
 Click [Here](#aadits-user-page) to go the top of the page at Aadit's User Page
