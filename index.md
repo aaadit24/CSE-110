@@ -1,10 +1,9 @@
 # Aadit's User Page
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/97692709/230689442-d839bea1-f750-4726-b4ff-216f0420279f.jpg">
-</p>
+![Photo Mine](https://user-images.githubusercontent.com/97692709/230691919-2ddd1fd5-2249-4b3b-8551-e54399dceea6.jpg)
 
-> Passport Picture
+Fun Fact
+> This is also my passport picture
 
 **I am second year *Math - CS major***
 
@@ -41,4 +40,5 @@ class HelloWorld {
 ```
 
 [This is a link to my README.md page](README.md)
+
 Click [Here](#aadits-user-page) to go the top of the page at Aadit's User Page
