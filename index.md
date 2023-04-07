@@ -40,5 +40,5 @@ class HelloWorld {
 }
 ```
 
-[This is a link to my README.md page](CSE-110/README.md)
+[This is a link to my README.md page](README.md)
 Click [Here](#aadits-user-page) to go the top of the page at Aadit's User Page
