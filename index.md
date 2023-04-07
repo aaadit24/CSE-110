@@ -26,4 +26,19 @@ The favorite ranking of these languages are:
 5. SQL
 6. C#
 
+In Python to print the statement "Hello World" we can type:
 
+```
+print ("Hello World")
+
+```
+
+whereas in Java, we have to write;
+
+```
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
